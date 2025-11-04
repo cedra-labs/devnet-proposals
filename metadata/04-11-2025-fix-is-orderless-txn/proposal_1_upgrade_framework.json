@@ -1,0 +1,6 @@
+{
+  "title": "Multi-step proposal to upgrade devnet framework, version v0.1.0",
+  "description": "This includes changes in https://github.com/cedra-labs/cedra-network/releases/tag/cedra-node-vX.YY.Z",
+  "source_code_url": "https://github.com/cedra-labs/cedra",
+  "discussion_url": "https://github.com/cedra-labs/cedra"
+}

@@ -1,6 +1,0 @@
-{
-  "title": "Fix is_orderless_txn",
-  "description": "fix in the custom fee statement",
-  "source_code_url": "https://github.com/cedra-labs/cedra-network",
-  "discussion_url": "https://github.com/cedra-labs/cedra-network"
-}
