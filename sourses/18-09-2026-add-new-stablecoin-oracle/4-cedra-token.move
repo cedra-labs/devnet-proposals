@@ -1,6 +1,6 @@
 // Script hash: 157456c4 
-// Framework commit hash: 0af636472746e559081884b97928c6e0093dd59f
-// Builder commit hash: 0af636472746e559081884b97928c6e0093dd59f
+// Framework commit hash: cfcbd9a4bd78d76739890903057de1de4d2c8e96
+// Builder commit hash: cfcbd9a4bd78d76739890903057de1de4d2c8e96
 // Upgrade proposal for package `CedraToken`
 
 // source digest: 55AF6B5EEFD31832A3615BD0196767CB0C960573150505AAB03F13A73B3F80FE
